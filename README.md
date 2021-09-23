@@ -5,8 +5,8 @@ Facilita o entendimento do Laravel e auxilia na integração com o banco de dado
 
 <br />
 
-![](img1.png)
+![](img1.PNG)
 
 <br />
 
-![](img2.png)
+![](img2.PNG)
